@@ -1,29 +1,27 @@
-{
-  "projects":
-  [
-    {
-      "title": "Form Website",
-      "description": "A personal portfolio showcasing my projects.",
-      "url": "https://example.com/portfolio",
-      "type": "GitHub"
-    },
-    {
-      "title": "Weather App",
-      "description": "A weather forecast app using the OpenWeather API.",
-      "url": "https://example.com/weather-app",
-      "type": "GitHub"
-    },
-    {
-      "title": "Professional Profile",
-      "description": "An online store built with React and Firebase.",
-      "url": "https://example.com/ecommerce",
-      "type": "Live Demo"
-    },
-    {
-      "title": "Drag and Drop Game",
-      "description": "An online store built with React and Firebase.",
-      "url": "https://example.com/ecommerce",
-      "type": "Live Demo"
-    }
-  ]
-}
+[
+  {
+    "title": "Form Website",
+    "description": "A personal portfolio showcasing my projects.",
+    "url": "https://example.com/portfolio",
+    "type": "GitHub"
+  },
+  {
+    "title": "Weather App",
+    "description": "A weather forecast app using the OpenWeather API.",
+    "url": "https://example.com/weather-app",
+    "type": "GitHub"
+  },
+  {
+    "title": "Professional Profile",
+    "description": "An online store built with React and Firebase.",
+    "url": "https://example.com/ecommerce",
+    "type": "Live Demo"
+  },
+  {
+    "title": "Drag and Drop Game",
+    "description": "An online store built with React and Firebase.",
+    "url": "https://example.com/ecommerce",
+    "type": "Live Demo"
+  }
+]
+

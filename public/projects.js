@@ -11,7 +11,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 // Fetch and render projects
 function fetchAndRenderProjects() {
     return __awaiter(this, void 0, void 0, function* () {
-        const response = yield fetch('./data/projects.json');
+        const response = yield fetch('https://dlittl02.github.io/.idea/data/projects.json');
         if (!response.ok) {
             console.error(`Failed to load projects: ${response.status}`);
             return;
