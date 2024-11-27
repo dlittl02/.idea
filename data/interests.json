@@ -1,0 +1,20 @@
+{
+  "interests": [
+    {
+      "title": "Travel",
+      "description": "Exploring new places, cultures, and cuisines is one of my greatest passions. I’ve traveled all over the United States, the Caribbean, and South America, and I’m always planning my next adventure."
+    },
+    {
+      "title": "Cooking",
+      "description": "I enjoy cooking for myself, friends, and family. I often meal prep to have healthy, home-cooked options ready during the weekdays."
+    },
+    {
+      "title": "Self-Care",
+      "description": "I prioritize self-care routines, whether it’s skincare, relaxing with a favorite show, or taking time to recharge. Self-care keeps me balanced and focused."
+    },
+    {
+      "title": "Fitness",
+      "description": "Staying active is important to me. I love yoga, Pilates, and walking, which help me maintain both physical and mental well-being."
+    }
+  ]
+}
