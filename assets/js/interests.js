@@ -1,6 +1,11 @@
-// Fetch and display interests dynamically
-fetch('interests.json')
-    .then(response => response.json())
+// Fetch and display interests dynamically from the hosted JSON file
+fetch('https://dlittl02.github.io/.idea/data/interests.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return response.json();
+    })
     .then(data => {
         const interestsGrid = document.getElementById('interests-grid');
 
